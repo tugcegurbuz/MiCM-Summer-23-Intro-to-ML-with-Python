@@ -1,7 +1,7 @@
 # Welcome to MiCM Summer-2023 Introduction to Machine Learning with Pyton Workshop!
 
 Workshop Schedule:
-* **Aug 10th, ML Time <3** (1.00 - 5.00 pm) @550 Sherbrooke West, room:189
+* **Aug 10th, ML Time <3** (1.00 - 5.00 pm) @550 Sherbrooke, room:189
 * Instructor: Tugce Gurbuz
 * T.A.: Younes Valibeigi
 
