@@ -17,7 +17,7 @@ Workshop Schedule:
 
 |   | Run |
 | - | --- |
-| Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([https://github.com/tugcegurbuz/MiCM_Fall22_Machine-Learning-Principles/blob/main/tutorials/1_MLP_Tutorial.ipynb](https://colab.research.google.com/drive/1iJ-4KhxIqx8kdRxstHLb2FyELldGKc9Q?usp=sharing)) |)
+| Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iJ-4KhxIqx8kdRxstHLb2FyELldGKc9Q?usp=sharing) |)
 
 ### Optimization
 * Slides: [Optimization](https://github.com/tugcegurbuz/MiCM_Fall22_Machine-Learning-Principles/blob/main/lectures/Lecture2-Optimization.pdf)
