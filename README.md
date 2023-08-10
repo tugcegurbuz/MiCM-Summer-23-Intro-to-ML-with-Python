@@ -2,6 +2,8 @@
 
 Workshop Schedule:
 * **Aug 10th, ML Time <3** (1.00 - 5.00 pm)
+* Instructor: Tugce Gurbuz
+* T.A.: Younes Valibeigi
 
 ### Pre-workshop Study Material - Introduction to Google Colab Basics And Pytorch
 * *Learn state of art ML library*
