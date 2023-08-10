@@ -12,7 +12,7 @@ Workshop Schedule:
 
 
 ### Multi Layer Perceptrons
-* Slides: [Multi Layer Perceptrons](https://github.com/tugcegurbuz/MiCM_Fall22_Machine-Learning-Principles/blob/main/lectures/Lecture1-Multi%20Layer%20Perceptrons.pdf)
+* Slides: [Multi Layer Perceptrons](https://github.com/tugcegurbuz/MiCM-Summer23-Intro-to-ML-with-Python/blob/main/lectures/1_Multi%20Layer%20Perceptrons.pdf)
 * *Classification with MLPs*
 
 |   | Run |
@@ -20,12 +20,12 @@ Workshop Schedule:
 | Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1iJ-4KhxIqx8kdRxstHLb2FyELldGKc9Q?usp=sharing) |)
 
 ### Optimization
-* Slides: [Optimization](https://github.com/tugcegurbuz/MiCM_Fall22_Machine-Learning-Principles/blob/main/lectures/Lecture2-Optimization.pdf)
+* Slides: [Optimization](https://github.com/tugcegurbuz/MiCM-Summer23-Intro-to-ML-with-Python/blob/main/lectures/2_Optimization.pdf)
 * *Learn the magic behind machine learning*
 
 |   | Run |
 | - | --- |
-| Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/tugcegurbuz/MiCM_Fall22_Machine-Learning-Principles/blob/main/tutorials/2_Optimization_Tutorial.ipynb) |)
+| Tutorial | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1QWd3XRxNhhNwUZIbHKlDDBCGvqxcLJ4-?usp=sharing) |)
 
 ### Regularization
 * Slides: [Regularization](https://github.com/tugcegurbuz/MiCM_Fall22_Machine-Learning-Principles/blob/main/lectures/Lecture3-Regularization.pdf)
