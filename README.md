@@ -15,7 +15,7 @@ Workshop Schedule:
 
 ### Multi Layer Perceptrons
 * Slides: [Multi Layer Perceptrons](https://github.com/tugcegurbuz/MiCM-Summer23-Intro-to-ML-with-Python/blob/main/lectures/1_Multi%20Layer%20Perceptrons.pdf)
-* *Classification with MLPs*
+* *Classify hand-written digits with MLPs*
 
 |   | Run |
 | - | --- |
