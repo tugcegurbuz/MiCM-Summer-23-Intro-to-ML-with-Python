@@ -33,8 +33,8 @@ Workshop Schedule:
 
 |   | Run |
 | - | --- |
-| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18bv3TLOwTs1ff67x62iRQkzxuURAjzID?usp=sharing) |)
-| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/tugcegurbuz/MiCM_Fall22_Machine-Learning-Principles/blob/main/tutorials/3_Regularization_Tutorial_2.ipynb) |)
+| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/18bv3TLOwTs1ff67x62iRQkzxuURAjzID?usp=sharing) |
+| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1-rn_9z8zRFfiXRBf5MIm2bdijJOudma-?usp=sharing) |)
 
 
 
